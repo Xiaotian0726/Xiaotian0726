@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Xiaotian0726/Xiaotian0726** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋, I'm [Xiaotian Hong (洪潇天)](https://github.com/Xiaotian0726)
+
+- 🔭 I’m currently a master student of computer science in [NJU](http://www.nju.edu.cn/).
+
+<p align="center">
+<a href="https://github.com/Xiaotian0726">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Xiaotian0726&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Xiaotian0726&layout=compact&langs_count=8&theme=vue&count_private=true"/>
+</a>
+</p>
