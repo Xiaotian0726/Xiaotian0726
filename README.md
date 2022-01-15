@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, I'm [Xiaotian Hong (洪潇天)](https://github.com/Xiaotian0726)
+### Hi there 👋, I'm [Xiaotian Hong](https://github.com/Xiaotian0726)
 
 - 🔭 I’m currently a master student of computer science in [NJU](http://www.nju.edu.cn/).
 
