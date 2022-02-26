@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, I'm [Xiaotian Hong](https://github.com/Xiaotian0726)
 
-- 🔭 I’m currently a master student of computer science in [NJU](http://www.nju.edu.cn/).
+- 😄 I’m currently a master student of computer science in [NJU](http://www.nju.edu.cn/).
 
 <p align="center">
 <a href="https://github.com/Xiaotian0726">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Xiaotian0726&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Xiaotian0726&layout=compact&langs_count=8&theme=vue&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Xiaotian0726&show_icons=true&theme=default&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Xiaotian0726&layout=compact&langs_count=8&theme=default&count_private=true"/>
 </a>
 </p>
