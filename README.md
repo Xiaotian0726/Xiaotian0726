@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, I'm [Xiaotian Hong](https://github.com/Xiaotian0726)
 
-- 😄 I’m currently a master student of computer science in [NJU](http://www.nju.edu.cn/).
+- 😄 I’m currently studying for a master's degree of computer science in [NJU](http://www.nju.edu.cn/).
 
 <p align="center">
 <a href="https://github.com/Xiaotian0726">
